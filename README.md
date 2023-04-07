@@ -1,13 +1,12 @@
 <h1 align="center">
   <br>
-    <a href="https://github.com/belveloper/FlixFlex"><img src="https://github.com/Belveloper/FlixFlex/blob/main/SmartSelect_20230105_081510_Chrome-removebg-preview.png" alt="FlixFlex" width="100"></a>
-
+  <a href="https://github.com/belveloper/pbs"><img src="https://raw.githubusercontent.com/Belveloper/pbs/main/IMG-20230213-WA0001-removebg-preview%20(1).png" alt="E_kraya" width="100"></a>
   <br>
-  FlixFlex .. Movie App
+  PBSFlexily .. Top up App
   <br>
 </h1>
  
-<h4 align="center">.. FlixFlex Movie App made with flutter framework ..</h4> <br> made with flutter
+<h4 align="center">.. Pbs flexily is a mobile service App to top up sold (Flexy,recharge carte ADSL,Solde,...) made with flutter framework ..</h4> <br> made with flutter
  
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) 
  <br><h4>- State management : BLoC (cubit)</h4>
@@ -15,10 +14,12 @@
   <h4>- Authentication : Firebase</h4> <br>
 <p>
 <img src="https://github.com/Belveloper/pbs/blob/main/Screenshot_20230407_150153.jpg" width="200" height="440"/>
-<img src="https://github.com/Belveloper/pbs/blob/main/Screenshot_20230407_150153%20(1).jpg" width="200" height="440"/>
+<img src="https://github.com/Belveloper/pbs/blob/main/Screenshot_20230407_150202%20(1).jpg" width="200" height="440"/>
   <img src="https://github.com/Belveloper/pbs/blob/main/Screenshot_20230407_150148.jpg" width="200" height="440"/>
 <img src="https://github.com/Belveloper/pbs/blob/main/Screenshot_20230316_192927.jpg" width="200" height="440"/>
 <img src="https://github.com/Belveloper/pbs/blob/main/Screenshot_20230311_135222.jpg" width="200" height="440"/>
+<img src="https://github.com/Belveloper/pbs/blob/main/SmartSelect_20230213_001426.jpg" width="200" height="440"/>
+
 
 
 
